@@ -1,0 +1,17 @@
+{
+  "name": "旋盤輪郭座標計算",
+  "short_name": "旋盤座標",
+  "description": "NC旋盤プログラム用の輪郭理論接点座標を計算（直線・R・テーパ・面取り）。オフライン対応。",
+  "lang": "ja",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f1620",
+  "theme_color": "#0f1620",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
