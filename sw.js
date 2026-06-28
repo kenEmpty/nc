@@ -7,7 +7,7 @@
 //  - 静的資産は cache-first（あればキャッシュ、無ければ取得してキャッシュ）。
 // キャッシュ名の版を上げると、activate で旧キャッシュを破棄して更新する。
 
-const CACHE = 'lathecalc-v4';
+const CACHE = 'lathecalc-v5';
 const CORE = [
   './',
   './index.html',
